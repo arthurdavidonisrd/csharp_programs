@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\bin\Debug\net6.0\equacao_1_grau.exe
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\bin\Debug\net6.0\equacao_1_grau.deps.json
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\bin\Debug\net6.0\equacao_1_grau.runtimeconfig.json
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\bin\Debug\net6.0\equacao_1_grau.dll
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\bin\Debug\net6.0\equacao_1_grau.pdb
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\equacao_1_grau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\equacao_1_grau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\equacao_1_grau.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\equacao_1_grau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\equacao_1_grau.dll
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\refint\equacao_1_grau.dll
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\equacao_1_grau.pdb
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\equacao_1_grau.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\aulas\equacao_1_grau\obj\Debug\net6.0\ref\equacao_1_grau.dll

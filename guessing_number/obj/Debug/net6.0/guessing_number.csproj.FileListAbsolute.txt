@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\aulas\guessing_number\bin\Debug\net6.0\guessing_number.exe
+C:\Users\User\Desktop\C#\aulas\guessing_number\bin\Debug\net6.0\guessing_number.deps.json
+C:\Users\User\Desktop\C#\aulas\guessing_number\bin\Debug\net6.0\guessing_number.runtimeconfig.json
+C:\Users\User\Desktop\C#\aulas\guessing_number\bin\Debug\net6.0\guessing_number.dll
+C:\Users\User\Desktop\C#\aulas\guessing_number\bin\Debug\net6.0\guessing_number.pdb
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\guessing_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\guessing_number.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\guessing_number.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\guessing_number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\guessing_number.dll
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\refint\guessing_number.dll
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\guessing_number.pdb
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\guessing_number.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\aulas\guessing_number\obj\Debug\net6.0\ref\guessing_number.dll
